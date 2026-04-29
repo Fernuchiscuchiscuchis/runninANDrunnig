@@ -182,4 +182,4 @@ MIT — Libre para usar, modificar y distribuir.
 
 ---
 
-*Hecho con ☕ para atletas de barrio que progresan en serio.*
+*Hecho con amor para atletas de barrio que progresan en serio.*
